@@ -38,7 +38,7 @@
 }
 body{
     font-family: var(--RHD-fonts);
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(pattern-background-desktop.svg);
     display: grid;
     place-items: center;
     height: 100vh;
