@@ -44,7 +44,7 @@ body{
     height: 100vh;
     background-repeat: no-repeat;
     width:100%;
-    background-size: cover;
+    background-size: contain;
 }
 main{
     width:100%;
